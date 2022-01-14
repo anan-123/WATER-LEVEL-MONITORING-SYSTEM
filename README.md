@@ -1,11 +1,11 @@
 # WATER-LEVEL-MONITORING-SYSTEM
 
 TEAM MEMBERS: 
-AFRIN SYED - 2019101104
-ANANYA AMANCHERLA - 2019101041
-ANANDHINI RAJENDRAN - 2019101055
-ABHINAV CHOWDARY MALLAMPATI - 2019101109
-JYOTEESHWAR GANNE - 2019101099
+1. AFRIN SYED - 2019101104
+2. ANANYA AMANCHERLA - 2019101041
+3. ANANDHINI RAJENDRAN - 2019101055
+4. ABHINAV CHOWDARY MALLAMPATI - 2019101109
+5. JYOTEESHWAR GANNE - 2019101099
 
 # PROBLEM STATEMENT
 Water monitoring is a versatile topic and can be extended to a wide range- monitoring water levels for reservoirs, dams, natural disaster warnings or something as mundane as daily water usage of a tank. This is why we chose this experiment. Specifically, we designed a system that can be used to control  the motor/pump's working  based on water levels using an ultrasonic sensor.  This is to be adapted to a house tank and its pump. A dashboard shows the current water level, graph on the changes in water level over 24hr time period and motor power usage with its current status.
